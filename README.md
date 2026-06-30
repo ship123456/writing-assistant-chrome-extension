@@ -1,6 +1,6 @@
 # Writing Assistant Chrome Extension
 
-![Writing Assistant Dashboard](images/dashboard_image.png)
+![Writing Assistant Dashboard](images/dashboard-image.png)
 
 ## Table of Contents
 
@@ -181,7 +181,7 @@ The project separates user interface components, content scripts, background ser
 
 The extension follows a modular architecture where the browser hosts the extension, content scripts monitor editable text fields, and the writing engine generates suggestions displayed through the popup interface.
 
-![Architecture Diagram](images/architecture_image.png)
+![Architecture Diagram](images/architecture-image.png)
 
 ## Security Considerations
 
