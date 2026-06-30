@@ -75,8 +75,6 @@ The extension popup includes:
 - Settings Shortcut
 - Theme Selection
 
-![Dashboard](images/dashboard_image.png)
-
 ## Using the Writing Assistant
 
 To improve your writing:
@@ -150,6 +148,10 @@ Yes. Preferences can be managed through the extension settings.
 ### Is my writing stored?
 
 The extension processes text locally by default and does not store user content without user interaction.
+
+### Can I temporarily disable writing assistance?
+
+Yes. Writing assistance can be enabled or disabled at any time using the extension popup without uninstalling the extension.
 
 ### Why are suggestions unavailable on some websites?
 
