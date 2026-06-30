@@ -100,7 +100,7 @@ This repository includes documentation for:
 
 - Chrome Extensions API
 - Storage API
-- Tabs API
+- Active Tab API
 - Scripting API
 
 ### Development Tools
@@ -190,7 +190,7 @@ The extension follows Chrome Extension security best practices.
 Security measures include:
 
 - Uses Chrome Extension Manifest V3.
-- Processes text locally whenever possible.
+- Processes text locally by default; advanced writing suggestions may optionally use cloud-based language services.
 - Requests only the minimum permissions required for extension functionality.
 - Uses the `storage` permission to save user preferences.
 - Uses the `activeTab` permission only when interacting with the currently active webpage.
