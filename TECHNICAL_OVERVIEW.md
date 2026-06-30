@@ -244,11 +244,11 @@ Current limitations include:
 Future releases may include:
 
 - AI-powered writing suggestions
-- Multi-language support
 - Offline grammar engine
+- Multi-language support
 - Custom writing styles
 - User dictionary
-- Cloud synchronization
 - Writing history
+- Cloud synchronization
 - PDF export
 - Cross-browser support
