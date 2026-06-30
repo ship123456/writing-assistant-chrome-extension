@@ -84,9 +84,11 @@ To improve your writing:
 1. Open a supported webpage.
 2. Click inside an editable text field.
 3. Start typing.
-4. Review grammar and spelling suggestions.
-5. Accept or ignore individual recommendations.
-6. Continue writing with improved content.
+4. Grammar and spelling issues are highlighted with inline indicators as you type.
+5. Hover over the highlighted text to view suggested corrections or alternative wording.
+6. Click a suggestion to apply the recommended change.
+7. Click **Ignore** or dismiss the suggestion if you do not want to apply it.
+8. Continue writing while reviewing additional suggestions in real time.
 
 ## Features
 
